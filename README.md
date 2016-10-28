@@ -1,3 +1,5 @@
+Contact me in a private way.
+```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 Version: GnuPG v2
 
@@ -28,3 +30,4 @@ s4JkoWVWb5+id29ab6F/btVS7QDEFRwV8HurrqAN9WB/2lhnzM1QqphDHuUjsrPe
 hux0z1Ra0oYpiB/zmR53pP5/1ULSF2Dd
 =Vn7J
 -----END PGP PUBLIC KEY BLOCK-----
+```
